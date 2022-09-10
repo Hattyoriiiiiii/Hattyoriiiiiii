@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Signika+Negative&size=30&pause=2000&color=42B959&width=435&lines=Hi%2C+I+am+Tatsuya+Hattori)](https://git.io/typing-svg)
+<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hattyoriiiiiii&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
@@ -23,3 +26,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+<a href="https://twitter.com/hattyoriiiiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hattyoriiiiiii" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/hattyoriiiiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hattyoriiiiiii" height="30" width="40" /></a>
+</p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Hattyoriiiiiii.Hattyoriiiiiii)

@@ -27,9 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
-<a href="https://twitter.com/hattyoriiiiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hattyoriiiiiii" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/hattyoriiiiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hattyoriiiiiii" height="30" width="40" /></a>
-</p>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Hattyoriiiiiii.Hattyoriiiiiii)

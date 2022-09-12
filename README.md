@@ -1,12 +1,15 @@
+<br>
+
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Signika+Negative&size=30&pause=2000&color=42B959&width=435&lines=Hi%2C+I+am+Tatsuya+Hattori)](https://git.io/typing-svg)
 
-- 🧑‍💻  I am a Master’s student at Tokyo University of Science.
+- 🧑‍🔬 Master's Student at Tokyo University of Science.
 
-- 🌱 Currently learning ...
-- 💬 Ask me about NGS analysis
-- 📄 Know about my experiences at https://hattyoriiiiiii.github.io/cv/
-- 💡 [Learn more about me](https://hattyoriiiiiii.github.io).
+- 🎓 Bachelor of Science and Technology in Applied Biological Science.
+- 🌱 Currently learning Data Science.
+- 🧑‍💻 Ask me about NGS analysis
+- 📄 Know about [my experiences](https://hattyoriiiiiii.github.io/cv/).
+- 💡 Check out [my personal website](https://hattyoriiiiiii.github.io).
 
 
 <br>

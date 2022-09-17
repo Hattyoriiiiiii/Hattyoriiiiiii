@@ -1,13 +1,13 @@
 <br>
 
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Signika+Negative&size=30&pause=2000&color=42B959&width=435&lines=Hi%2C+I+am+Tatsuya+Hattori)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Signika+Negative&size=30&pause=2000&color=42B959&width=435&lines=Hi%2C+I+am+Tatsuya+Hattori)
 
 - 🧑‍🔬 Master's Student at Tokyo University of Science.
 
 - 🎓 Bachelor of Science and Technology in Applied Biological Science.
 - 🌱 Currently learning Data Science.
-- 🧑‍💻 Ask me about NGS analysis
+- 🧑‍💻 Ask me about NGS analysis.
 - 📄 Know about [my experiences](https://hattyoriiiiiii.github.io/cv/).
 - 💡 Check out [my personal website](https://hattyoriiiiiii.github.io).
 
@@ -37,4 +37,4 @@
 <br>
 
 <!-- https://github.com/kittinan/spotify-github-profile -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f4tipfco4mbtjzeiffmp3ot3i4&cover_image=true&theme=novatorem&bar_color=669c35&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f4tipfco4mbtjzeiffmp3ot3i4&cover_image=true&theme=novatorem&bar_color=669c35&bar_color_cover=false)

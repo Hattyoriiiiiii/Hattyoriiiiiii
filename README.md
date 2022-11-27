@@ -11,10 +11,27 @@
 - 📄 Know about [my experiences](https://hattyoriiiiiii.github.io/cv/).
 - 💡 Check out [my personal website](https://hattyoriiiiiii.github.io).
 
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31f4tipfco4mbtjzeiffmp3ot3i4&count=3) -->
 
 <br>
 
-<details><summary>GitHub Statistics</summary>
+#### Now playing on Spotify
+<!-- https://github.com/kittinan/spotify-github-profile -->
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f4tipfco4mbtjzeiffmp3ot3i4&cover_image=true&theme=novatorem&bar_color=669c35&bar_color_cover=false)
+
+#### Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [解析ツールのインストールと実行の仕方](https://hattyoriiiiiii.github.io/blog/2022/ClustalW/)
+- [K-meansクラスタリング](https://hattyoriiiiiii.github.io/blog/2022/kmeans/)
+- [Webサイトに飛ぶQRコードを作成する](https://hattyoriiiiiii.github.io/blog/2022/QRcode/)
+- [Google ColabでPythonファイルの編集とスクリプトの実行をする](https://hattyoriiiiiii.github.io/blog/2022/GoogleColab/)
+- [Macで「システムデータ」を減らして空き容量を確保する](https://hattyoriiiiiii.github.io/blog/2022/Storage/)
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
+#### GitHub Statistics
+<details><summary>Details</summary>
 
 <br>
 
@@ -31,19 +48,3 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Hattyoriiiiiii.Hattyoriiiiiii)
 
 </details>
-
-<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31f4tipfco4mbtjzeiffmp3ot3i4&count=3) -->
-
-<br>
-
-<!-- https://github.com/kittinan/spotify-github-profile -->
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f4tipfco4mbtjzeiffmp3ot3i4&cover_image=true&theme=novatorem&bar_color=669c35&bar_color_cover=false)
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [解析ツールのインストールと実行の仕方](https://hattyoriiiiiii.github.io/blog/2022/ClustalW/)
-- [K-meansクラスタリング](https://hattyoriiiiiii.github.io/blog/2022/kmeans/)
-- [Webサイトに飛ぶQRコードを作成する](https://hattyoriiiiiii.github.io/blog/2022/QRcode/)
-- [Google ColabでPythonファイルの編集とスクリプトの実行をする](https://hattyoriiiiiii.github.io/blog/2022/GoogleColab/)
-- [Macで「システムデータ」を減らして空き容量を確保する](https://hattyoriiiiiii.github.io/blog/2022/Storage/)
-<!-- BLOG-POST-LIST:END -->

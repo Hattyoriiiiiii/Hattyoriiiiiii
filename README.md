@@ -41,4 +41,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [解析ツールのインストールと実行の仕方](https://hattyoriiiiiii.github.io/blog/2022/ClustalW/)
+- [K-meansクラスタリング](https://hattyoriiiiiii.github.io/blog/2022/kmeans/)
+- [Webサイトに飛ぶQRコードを作成する](https://hattyoriiiiiii.github.io/blog/2022/QRcode/)
+- [Google ColabでPythonファイルの編集とスクリプトの実行をする](https://hattyoriiiiiii.github.io/blog/2022/GoogleColab/)
+- [Macで「システムデータ」を減らして空き容量を確保する](https://hattyoriiiiiii.github.io/blog/2022/Storage/)
 <!-- BLOG-POST-LIST:END -->

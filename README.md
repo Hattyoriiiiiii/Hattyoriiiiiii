@@ -38,3 +38,7 @@
 
 <!-- https://github.com/kittinan/spotify-github-profile -->
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f4tipfco4mbtjzeiffmp3ot3i4&cover_image=true&theme=novatorem&bar_color=669c35&bar_color_cover=false)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

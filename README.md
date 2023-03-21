@@ -8,7 +8,6 @@
 - 🌱 Currently learning Data Science.
 - 🧑‍💻 Ask me about NGS analysis.
 - 📄 Know about [my experiences](https://hattyoriiiiiii.github.io/cv/).
-
 - 💡 Check out [my personal website](https://hattyoriiiiiii.github.io).
 
 <br>

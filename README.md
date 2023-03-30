@@ -5,7 +5,7 @@
 
 - 🧑‍🔬 Master's Student at Tokyo University of Science.
 - 🎓 Bachelor of Science and Technology in Applied Biological Science.
-- 🌱 Currently learning Data Science.
+- 🌱 Currently learning Blockchain.
 - 🧑‍💻 Ask me about NGS analysis.
 - 📄 Know about [my experiences](https://hattyoriiiiiii.github.io/cv/).
 - 💡 Check out [my personal website](https://hattyoriiiiiii.github.io).

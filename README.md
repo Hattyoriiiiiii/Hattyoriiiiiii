@@ -1,7 +1,7 @@
 <br>
 
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Signika+Negative&size=30&pause=2000&color=42B959&width=435&lines=Hi%2C+I+am+Tatsuya+Hattori)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Signika+Negative&size=30&pause=2000&color=42B959&width=435&lines=Hi%2C+I+am+Tatsuya+Hattori+👋)
 
 - 🧑‍🔬 Master's Student at Tokyo University of Science.
 - 🎓 Bachelor of Science and Technology in Applied Biological Science.

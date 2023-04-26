@@ -3,6 +3,9 @@
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Signika+Negative&size=30&pause=2000&color=42B959&width=435&lines=Hi%2C+I+am+Tatsuya+Hattori+👋)
 
+<img align="right" width="33%" alt="" src="https://user-images.githubusercontent.com/61248301/234511713-f7bfa6b5-b66b-491f-afb3-e945aa0014c8.gif" />
+
+### Talking about Personal Stuffs:
 - 🧑‍🔬 Master's Student at Tokyo University of Science.
 - 🎓 Bachelor of Science and Technology in Applied Biological Science.
 - 🌱 Currently learning Blockchain.
@@ -45,5 +48,7 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Hattyoriiiiiii.Hattyoriiiiiii)
+
+<a href="https://storyset.com/technology">Technology illustrations by Storyset</a>
 
 </details>

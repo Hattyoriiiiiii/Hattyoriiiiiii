@@ -5,7 +5,7 @@
 
 <img align="right" width="33%" alt="" src="https://user-images.githubusercontent.com/61248301/234511713-f7bfa6b5-b66b-491f-afb3-e945aa0014c8.gif" />
 
-### Talking about Personal Stuffs:
+### About me:
 - 🧑‍🔬 Master's Student at Tokyo University of Science.
 - 🎓 Bachelor of Science and Technology in Applied Biological Science.
 - 🌱 Currently learning Blockchain.

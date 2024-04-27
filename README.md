@@ -28,7 +28,7 @@
 
 #### Now playing on Spotify
 <!-- https://github.com/kittinan/spotify-github-profile -->
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f4tipfco4mbtjzeiffmp3ot3i4&cover_image=true&theme=novatorem&bar_color=669c35&bar_color_cover=false)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f4tipfco4mbtjzeiffmp3ot3i4&cover_image=true&theme=novatorem&bar_color=669c35&bar_color_cover=false)](https://open.spotify.com/playlist/4kImy5IdnHG9coKYClAFNZ?si=3ec47a6c73f24d85)
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31f4tipfco4mbtjzeiffmp3ot3i4&count=3) -->
 
 <br>

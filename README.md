@@ -6,7 +6,7 @@
 <img align="right" width="33%" alt="" src="https://user-images.githubusercontent.com/61248301/234511713-f7bfa6b5-b66b-491f-afb3-e945aa0014c8.gif" />
 
 ### About me:
-- 🧑‍🔬 Data Scientist (Bioinformatician) at a Pharmaceutical Company.
+- 🧑‍🔬 Bioinformatics researcher at a Pharmaceutical Company.
 - 🎓 Master of Science and Technology in Applied Biological Science.
 - 🌱 Currently learning Financial Economics.
 - 🧑‍💻 Ask me about NGS analysis.
